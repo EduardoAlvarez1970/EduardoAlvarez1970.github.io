@@ -27,7 +27,7 @@
   /*adicionar background color a cada grid*/
 
   div {
-    background-color: yellow;
+    background-color: blue;
     height: 165px;
     text-align: center; /*me alinea horizontalmente al centro*/  
   }
